@@ -1,3 +1,8 @@
+// Problem: https://codeforces.com/problemset/problem/C. Replacement
+// Author: uzzal3002
+// Language: C++
+// Verdict: Accepted
+
 #include <bits/stdc++.h>
 using namespace std;
 
